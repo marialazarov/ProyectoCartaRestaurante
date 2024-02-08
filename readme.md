@@ -1,14 +1,90 @@
-En mi primer proyecto de clase he construido una página web de hamburguesas, con un estilo muy minimalista.
+# Welcome to my first frontend app
 
-He usado como identidad el color rojo y blanco como referencia de algunas cadenas de fast food(Five Guys, por ejemplo).
+<details>
+  <summary>Carta hamburguesería📝</summary>
+  <ol>
+    <li><a href="#objetivo-🎯">Objetivo</a></li>
+    <li><a href="#sobre-el-proyecto-🔎">Sobre el proyecto</a></li>
+    <li><a href="#stack">Stack</a></li>
+    <li><a href="#instalación-en-local">Instalación</a></li>
+    <li><a href="#vistas">Vistas</a></li>
+    <li><a href="#contribuciones">Contribuciones</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#webgrafia">Webgrafia</a></li>
+    <li><a href="#desarrollo">Desarrollo</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+  </ol>
+</details>
 
- He construido la página  mediante CSS, Bootstrap y HTML. Empezando primero por HTML para estructurar la página a la  vez que usaba Bootstrap y finalmente, CSS para darle mi propio estilo. 
- 
- He usado los códigos que vienen integros con bootsrap sobre rows y columnas para centrar los elementos a mi gusto,también he usado divs como header y footer para dividir la páina en secciones y trabajar la parte de en medio con containers. Más tarde le he dado mi propio estilo a todos los elementos, con CSS, cambiando la fuente, los colores, añadiendo hovers...para más dinámismo.
+## Objetivo 🎯
+Este proyecto requería crear el diseño frontend de una página web de un restaurante. Con las vistas de contacto y de menú.
 
-He añadido botones, inputs de texto para rellenar formulario de registro y  un text-area para que los clientes dejen su feedback en la página de contacto.
- 
- Como se puede comprobar, el puntero del raton al pasar por Home,Contacto o Menú se convierte en una mano y puedes clickar y ser redirigido a cualquiera de las otras 3 páginas.
+## Sobre el proyecto 🔎
+Decidí crear una aplicación web para ayudar al servicio de esta hamburguesería y a su vez a sus clientes , que les permitiría ver las diferentes opciones del producto y poder plantear cualquier comentario en la vista de contacto, además de suscribirse. De esta propuesta de diseño me encanta el minimalismo y los sútiles efectos que daran dinámismo a la hora de navegar por la página.
+  
 
- He jugado también con los márgenes y los tamaños para separar divs y adptar bien elementos o imagenes en las columnas o filas , sobretodo he tenido que cambiar mucho los margin-top para que no estuvieran los divs contenedores tan juntos uno encima de otro.
- 
+
+## Stack
+<div align="center">
+<a href="">
+    <img src= "https://sergiosanz.dev/static/b0ad08bfda05fba464bf2927db87772d/6df68/html-css.png"/>
+</a>
+
+ </div>
+
+## Instalación en local
+1. Clonar el repositorio
+ 2. Abrir carpeta en tu ordenador
+## Vistas
+Principal
+<img src="img/vista principal.png">  
+Menú
+<img src="img/vista menú.png">
+Contacto
+<img src="img/vista contacto.png">
+
+
+
+## Contribuciones
+Las sugerencias y aportaciones son siempre bienvenidas.  
+
+Puedes hacerlo de dos maneras:
+
+1. Abriendo una issue
+2. Crea un fork del repositorio
+    - Crea una nueva rama  
+        ```
+        $ git checkout -b feature/nombreUsuario-mejora
+        ```
+    - Haz un commit con tus cambios 
+        ```
+        $ git commit -m 'feat: mejora X cosa'
+        ```
+    - Haz push a la rama 
+        ```
+        $ git push origin feature/nombreUsuario-mejora
+        ```
+    - Abre una solicitud de Pull Request
+
+
+
+
+## Desarrollo:
+
+``` js
+ const developer = "María Lázaro";
+
+ console.log("Desarrollado por: " + developer);
+```  
+
+## Agradecimientos:
+
+Agradezco a mis profesores y compañeros de Geekshubs el tiempo dedicado a las dudas que me han ido surgiendo a lo largo de mi primer proyecto.
+
+
+## Contacto
+
+<a href = "mailto:marialazaro.code@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/linkedinUser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
